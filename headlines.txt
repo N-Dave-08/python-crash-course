@@ -1,0 +1,60 @@
+Why does Kars4Kids sends most of its money to one town in New Jersey? (2023)
+mossplanet.news
+Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights
+jameshard.ing
+Normalizing Flows Are Capable Generative Models
+machinelearning.apple.com
+Learn OCaml
+ocaml-sf.org
+c4wa – C compiler for Web Assembly
+github.com/kign
+London's Largest Ancient Roman Fresco Is “Most Difficult Jigsaw Puzzle”
+thisiscolossal.com
+James Webb Space Telescope reveals its first direct image of an exoplanet
+smithsonianmag.com
+The Original Macintosh: Calculator Construction Set
+folklore.org
+SymbolicAI: A neuro-symbolic perspective on LLMs
+github.com/extensityai
+A brief history of children sent through the mail (2016)
+smithsonianmag.com
+Reinforcement learning, explained with a minimum of math and jargon
+understandingai.org
+Facebook is starting to feed its AI with private, unpublished photos
+theverge.com
+Qwen VLo: From “Understanding” the World to “Depicting” It
+qwenlm.github.io
+Multi-Stage Programming with Splice Variables
+tsung-ju.org
+Weird Expressions in Rust
+wakunguma.com
+Structuring Arrays with Algebraic Shapes
+acm.org
+10 Years of Pomological Watercolors
+parkerhiggins.net
+nimbme – Nim bare-metal environment
+github.com/mikra01
+Transmitting data via ultrasound without any special equipment
+halcy.de
+bootc-image-builder: Build your entire OS from a Containerfile
+github.com/osbuild
+Theoretical Analysis of Positional Encodings in Transformer Models
+arxiv.org
+Rust in the Linux kernel: part 2
+lwn.net
+Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)
+ycombinator.com
+Show HN: Do you know RGB?
+maxwellito.github.io
+New Process Uses Microbes to Create Valuable Materials from Urine
+lbl.gov
+Does a Focus on Royalty Obscure British History?
+historytoday.com
+Whitesmiths C compiler: One of the earliest commercial C compilers available
+github.com/hansake
+The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction
+u1f383.github.io
+A New Kind of Computer (April 2025)
+lightmatter.co
+Slightly better named character reference tokenization than Chrome, Safari, FF
+ryanliptak.com
